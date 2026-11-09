@@ -489,9 +489,9 @@ pytest-flask==1.3.0 \
     --hash=sha256:58be1c97b21ba3c4d47e0a7691eb41007748506c36bf51004f78df10691fa95e \
     --hash=sha256:c0e36e6b0fddc3b91c4362661db83fa694d1feb91fa505475be6732b5bc8c253
     # via -r requirements-dev.in
-pytest-postgresql==9.1.1 \
-    --hash=sha256:9a4673870bde284ed200a7efb496ad7a90024348231f0d5be0d72946423a220f \
-    --hash=sha256:fcd6e100d9d5550c3192c8386afa6632c2963ca808b0617d47ed16dd037a224c
+pytest-postgresql==10.0.0 \
+    --hash=sha256:447c81c7d389ba0f6209cecba37e5ee2ff14127058ed491a3c831f6744d7fe94 \
+    --hash=sha256:fff4ccd1edd8131ae528fc6236eb11c3502678a2870624fb0ea304e6268dee8d
     # via -r requirements-dev.in
 pytokens==0.4.1 \
     --hash=sha256:0fc71786e629cef478cbf29d7ea1923299181d0699dbe7c3c0f4a583811d9fc1 \
